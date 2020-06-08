@@ -1,1 +1,3 @@
 # WDGAN
+
+Our system will be released...
